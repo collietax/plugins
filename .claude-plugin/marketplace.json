@@ -1,0 +1,17 @@
+{
+  "name": "collietax",
+  "owner": {
+    "name": "CollieTax",
+    "email": "hello@collietax.com"
+  },
+  "metadata": {
+    "description": "The CollieTax plugin: bookkeeping and tax in your assistant."
+  },
+  "plugins": [
+    {
+      "name": "collietax",
+      "source": "./collietax",
+      "description": "Bookkeeping and tax in your assistant: keep a business's books from its statements, prepare payroll and information returns for review, and get an annual income tax return prepared and signed by a licensed CPA."
+    }
+  ]
+}

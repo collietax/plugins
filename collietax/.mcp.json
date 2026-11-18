@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "collietax": {
+      "type": "http",
+      "url": "https://collietax.com/api/mcp"
+    }
+  }
+}
