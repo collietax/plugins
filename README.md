@@ -4,13 +4,13 @@ The CollieTax plugin gives your assistant CollieTax's bookkeeping and tax servic
 
 ## Install
 
-- **claude.ai and Claude Cowork**: in Customize > Plugins, choose Add > Add marketplace and enter `collietax/plugins`. Add the CollieTax plugin, then add and connect CollieTax on its Connectors tab. It reaches Claude Code on the same account too.
+- **claude.ai and Claude Cowork**: in Customize > Plugins, choose Add > Add marketplace and enter `collietax/plugins`, and turn on Sync automatically so new versions arrive by themselves. Add the CollieTax plugin, then add and connect CollieTax on its Connectors tab. It reaches Claude Code on the same account too.
 - **Claude Code**:
 
       claude plugin marketplace add collietax/plugins
       claude plugin install collietax@collietax
 
-  Then run `/reload-plugins` and sign in to CollieTax from `/mcp`.
+  Then run `/reload-plugins` and sign in to CollieTax from `/mcp`. To get new versions by themselves, turn on auto-update for the collietax marketplace under `/plugin` > Marketplaces.
 - **Codex**:
 
       codex plugin marketplace add collietax/plugins

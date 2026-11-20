@@ -1,7 +1,7 @@
 {
   "name": "collietax",
   "displayName": "CollieTax",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Bookkeeping and tax in your assistant: keep a business's books from its statements, prepare payroll and information returns for review, and get an annual income tax return prepared and signed by a licensed CPA.",
   "author": {
     "name": "CollieTax",
