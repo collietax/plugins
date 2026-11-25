@@ -1,8 +1,8 @@
 {
   "name": "collietax",
   "displayName": "CollieTax",
-  "version": "0.5.2",
-  "description": "Bookkeeping and tax in your assistant: keep a business's books from its statements, prepare payroll and information returns for review, and get an annual income tax return prepared and signed by a licensed CPA.",
+  "version": "0.5.3",
+  "description": "Bookkeeping and tax in your AI agent: keep a business's books from its statements, prepare payroll returns, W-2s and 1099s for you to review and confirm, and get an annual income tax return prepared and signed by a licensed CPA or EA.",
   "author": {
     "name": "CollieTax",
     "email": "hello@collietax.com",

@@ -1,6 +1,6 @@
 # CollieTax plugins
 
-The CollieTax plugin gives your assistant CollieTax's bookkeeping and tax service: https://collietax.com. It brings the CollieTax connector and its skills; what it sends where is in [its README](collietax/README.md).
+The CollieTax plugin gives your AI agent CollieTax's bookkeeping and tax service: https://collietax.com. It brings the CollieTax connector and its skills; what it sends where is in [its README](collietax/README.md).
 
 ## Install
 
@@ -17,7 +17,7 @@ The CollieTax plugin gives your assistant CollieTax's bookkeeping and tax servic
       codex plugin add collietax@collietax
       codex mcp login collietax
 
-Any other assistant: https://collietax.com/mcp/START.md.
+Any other AI agent: https://collietax.com/mcp/START.md.
 
 What changed in each version: [CHANGELOG.md](CHANGELOG.md).
 

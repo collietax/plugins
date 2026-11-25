@@ -2,6 +2,10 @@
 
 Also at https://collietax.com/changelog.
 
+## 0.5.3 (2026-11-25)
+
+- Smaller fixes to the skills your AI agent follows.
+
 ## 0.5.2 (2026-11-25)
 
 - Your AI agent can keep several rental properties, vehicles, projects or stores apart in one book, so you see each one's income and expenses; it asks only when a row could belong to more than one.
