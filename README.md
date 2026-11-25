@@ -10,7 +10,7 @@ The CollieTax plugin gives your assistant CollieTax's bookkeeping and tax servic
       claude plugin marketplace add collietax/plugins
       claude plugin install collietax@collietax
 
-  Then run `/reload-plugins` and sign in to CollieTax from `/mcp`. To get new versions by themselves, turn on auto-update for the collietax marketplace under `/plugin` > Marketplaces.
+  Then run `/reload-plugins --force` and sign in to CollieTax from `/mcp`. To get new versions by themselves, turn on auto-update for the collietax marketplace under `/plugin` > Marketplaces.
 - **Codex**:
 
       codex plugin marketplace add collietax/plugins
@@ -18,5 +18,7 @@ The CollieTax plugin gives your assistant CollieTax's bookkeeping and tax servic
       codex mcp login collietax
 
 Any other assistant: https://collietax.com/mcp/START.md.
+
+What changed in each version: [CHANGELOG.md](CHANGELOG.md).
 
 This repository is built from CollieTax's source; changes made here are replaced by the next release.
