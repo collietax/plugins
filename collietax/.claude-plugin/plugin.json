@@ -1,7 +1,7 @@
 {
   "name": "collietax",
   "displayName": "CollieTax",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Bookkeeping and tax in your AI agent: keep a business's books from its statements, prepare payroll returns, W-2s and 1099s for you to review and confirm, and get an annual income tax return prepared and signed by a licensed CPA or EA.",
   "author": {
     "name": "CollieTax",
@@ -11,5 +11,19 @@
   "homepage": "https://collietax.com",
   "repository": "https://github.com/collietax/plugins",
   "license": "Proprietary",
-  "privacyPolicyUrl": "https://collietax.com/privacy"
+  "privacyPolicyUrl": "https://collietax.com/privacy",
+  "termsOfServiceUrl": "https://collietax.com/terms",
+  "supportUrl": "https://collietax.com/support",
+  "documentationUrl": "https://collietax.com/agents",
+  "keywords": [
+    "bookkeeping",
+    "tax",
+    "1099",
+    "w-2",
+    "payroll",
+    "irs",
+    "e-file",
+    "accounting",
+    "small-business"
+  ]
 }
