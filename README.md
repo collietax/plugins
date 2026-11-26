@@ -2,7 +2,7 @@
 
 CollieTax is an MCP server that your AI agent connects to, to file 1099 and W-2 forms and to keep a business's books. Its address is https://collietax.com/api/mcp, and you sign in with OAuth; there are no API keys. More at https://collietax.com.
 
-This repository is the CollieTax plugin for Claude Code, claude.ai, Claude Cowork and Codex. It brings the CollieTax connector and its skills; what it sends where is in [its README](collietax/README.md).
+This repository is the CollieTax plugin for Claude Code, claude.ai, Claude Cowork and Codex. It brings the CollieTax connector and its skills; what they run, what they send where, and when money moves are in [its README](collietax/README.md).
 
 ## Install
 
