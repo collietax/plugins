@@ -15,7 +15,6 @@ Install the plugin, then sign in to your CollieTax account: in claude.ai and Cow
 The plugin holds three skills, which are instructions your AI agent reads, and the address of one MCP server, https://collietax.com/api/mcp. It has no scripts, hooks or programs. The skills tell your AI agent to:
 
 - call the CollieTax MCP server's tools, under the account you signed in with;
-- follow the guidance that the CollieTax tools return with their results: the service's current rules, which come before the skills' own text;
 - upload a document, when it has a shell that reaches collietax.com, by an HTTP PUT (for example with `curl`) to an upload URL on collietax.com that a CollieTax tool returned; without one, it gives you a CollieTax page where you pick the file yourself;
 - read CollieTax's price list, https://collietax.com/pricing.md, when you ask what a service costs;
 - update this plugin when a CollieTax tool result names a newer version of the skills, with the plugin commands of the app it runs in (in Claude Code, `claude plugin marketplace update` and `claude plugin update`; in Codex, `codex plugin marketplace upgrade` and `codex plugin add`), and tell you the steps it cannot do itself.

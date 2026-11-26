@@ -2,6 +2,10 @@
 
 Also at https://collietax.com/changelog.
 
+## 0.5.7 (2026-11-26)
+
+- Smaller fixes to the skills your AI agent follows.
+
 ## 0.5.6 (2026-11-26)
 
 - Smaller fixes to the skills your AI agent follows.
